@@ -6,15 +6,5 @@
             "name": "holyshared",
             "email": "holy.shared.design@gmail.com"
         }
-    ],
-    "require": {
-        "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-paths": {
-            "web/packages/{$name}": [
-                "type:concrete5-package"
-            ]
-        }
-    }
+    ]
 }
